@@ -36,4 +36,4 @@ You can then detach by pressing `CRTL-P` `CTRL-Q`.
 
 ## License
 
-MIT
+[MIT](license)
